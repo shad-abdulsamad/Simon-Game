@@ -19,10 +19,3 @@ function nextSequene(){
     let audio=new Audio("sounds/"+randomChosenColor+".mp3");
     audio.play();
 }
-/* $("#green").fadeOut(100).fadeIn(100).fadeOut(100).fadeIn(100);
-$("#red").fadeOut(100).fadeIn(100).fadeOut(100).fadeIn(100);
-$("#yellow").fadeOut(100).fadeIn(100).fadeOut(100).fadeIn(100);
-$("#blue").fadeOut(100).fadeIn(100).fadeOut(100).fadeIn(100); */
-
-
-
